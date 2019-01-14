@@ -1,0 +1,1618 @@
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  1.994 ms  2.032 ms  1.955 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.399 ms  0.417 ms  0.404 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  12.475 ms  12.560 ms  12.548 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.716 ms  24.705 ms  24.757 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.687 ms  24.530 ms  24.654 ms
+ 6  170.79.213.14 (170.79.213.14)  68.606 ms  65.709 ms  65.844 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.583 ms  66.353 ms  66.512 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.070 ms  171.892 ms  171.909 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.735 ms  178.892 ms  178.975 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.758 ms  184.853 ms  184.954 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.757 ms  203.029 ms  203.035 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.549 ms  202.532 ms  202.662 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.590 ms  210.528 ms  210.384 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.708 ms  233.720 ms  233.666 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.854 ms  243.624 ms  243.694 ms
+16  64.57.28.54 (64.57.28.54)  243.865 ms  244.195 ms  243.722 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.999 ms  243.933 ms  243.845 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.271 ms  244.103 ms  244.163 ms
+Tue Nov 13 06:37:15 UTC 2018
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.182 ms  0.202 ms  0.214 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.316 ms  0.307 ms  0.296 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  11.127 ms  11.162 ms  11.214 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.709 ms  24.725 ms  24.770 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.574 ms  24.507 ms  24.646 ms
+ 6  170.79.213.14 (170.79.213.14)  65.856 ms  65.769 ms  65.799 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.758 ms  66.454 ms  66.514 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.131 ms  172.151 ms  172.095 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.082 ms  179.006 ms  178.901 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.077 ms  185.381 ms  185.427 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.900 ms  203.199 ms  203.155 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.825 ms  202.855 ms  202.734 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.463 ms  210.803 ms  210.613 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.772 ms  233.900 ms  233.751 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.981 ms  243.817 ms  244.271 ms
+16  64.57.28.54 (64.57.28.54)  244.303 ms  243.914 ms  244.270 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.598 ms  244.116 ms  244.069 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.098 ms  244.319 ms  244.362 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.224 ms  0.205 ms  0.213 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.338 ms  0.329 ms  0.347 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.940 ms  10.995 ms  11.024 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.704 ms  24.958 ms  24.949 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  27.420 ms  27.211 ms  27.288 ms
+ 6  170.79.213.14 (170.79.213.14)  65.833 ms  65.837 ms  65.804 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.659 ms  66.422 ms  66.489 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.136 ms  172.126 ms  172.323 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.042 ms  178.934 ms  179.071 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.083 ms  185.133 ms  184.999 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.938 ms  202.846 ms  202.912 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.885 ms  202.638 ms  202.571 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.523 ms  210.820 ms  210.690 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.904 ms  233.891 ms  233.803 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.884 ms  243.879 ms  243.919 ms
+16  64.57.28.54 (64.57.28.54)  243.868 ms  244.206 ms  244.074 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.150 ms  244.255 ms  244.313 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.286 ms  244.392 ms  244.296 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.180 ms  0.189 ms  0.206 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.729 ms  0.719 ms  0.706 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.880 ms  10.927 ms  10.910 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.707 ms  24.742 ms  24.743 ms
+ 5  170.79.213.3 (170.79.213.3)  65.819 ms  65.868 ms  65.880 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.653 ms  65.926 ms  65.913 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.817 ms  66.535 ms  66.610 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.427 ms  171.882 ms  171.946 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.805 ms  178.909 ms  178.946 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.946 ms  184.881 ms  184.771 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.633 ms  202.517 ms  202.724 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.901 ms  202.743 ms  202.731 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.466 ms  210.499 ms  210.427 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.660 ms  233.559 ms  233.756 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.921 ms  243.824 ms  243.840 ms
+16  64.57.28.54 (64.57.28.54)  243.779 ms  244.066 ms  244.241 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.324 ms  244.139 ms  244.250 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.220 ms  243.928 ms  244.461 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.260 ms  0.241 ms  0.223 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.319 ms  0.319 ms  0.306 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  21.291 ms  21.354 ms  21.382 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  27.734 ms  27.804 ms  27.835 ms
+ 5  170.79.213.3 (170.79.213.3)  65.892 ms  65.915 ms  65.954 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.663 ms  65.695 ms  65.721 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.643 ms  66.406 ms  66.407 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.064 ms  172.023 ms  172.252 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.050 ms  178.782 ms  178.848 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.457 ms  184.913 ms  185.175 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  207.462 ms  207.266 ms  202.564 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.791 ms  202.617 ms  202.620 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.581 ms  210.466 ms  210.558 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.736 ms  233.626 ms  233.791 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.997 ms  244.041 ms  243.642 ms
+16  64.57.28.54 (64.57.28.54)  243.780 ms  243.899 ms  244.049 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.023 ms  243.970 ms  244.049 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.028 ms  244.186 ms  244.351 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.164 ms  0.168 ms  0.189 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.410 ms  0.409 ms  0.398 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.843 ms  10.711 ms  10.727 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.661 ms  24.712 ms  24.759 ms
+ 5  170.79.213.3 (170.79.213.3)  66.042 ms  66.034 ms  66.025 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.741 ms  65.836 ms  65.812 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.777 ms  66.799 ms  66.780 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.082 ms  172.575 ms  172.691 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.348 ms  179.045 ms  179.236 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.106 ms  184.855 ms  184.695 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.913 ms  202.889 ms  203.002 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.709 ms  202.657 ms  202.816 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.390 ms  210.474 ms  210.438 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.644 ms  233.739 ms  233.484 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.912 ms  243.637 ms  243.756 ms
+16  64.57.28.54 (64.57.28.54)  243.897 ms  244.634 ms  244.632 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.891 ms  243.981 ms  244.013 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.143 ms  244.130 ms  245.342 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.171 ms  0.180 ms  0.133 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.333 ms  0.324 ms  0.322 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.930 ms  10.947 ms  11.008 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.703 ms  24.751 ms  24.793 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  25.913 ms  24.814 ms  25.934 ms
+ 6  170.79.213.14 (170.79.213.14)  66.647 ms  65.913 ms  65.939 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.816 ms  66.504 ms  66.581 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.231 ms  172.347 ms  172.381 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.975 ms  179.051 ms  179.199 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.160 ms  185.294 ms  184.796 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.851 ms  202.742 ms  202.450 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.764 ms  202.823 ms  202.547 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.605 ms  210.559 ms  210.602 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.618 ms  233.646 ms  233.787 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.978 ms  244.041 ms  243.868 ms
+16  64.57.28.54 (64.57.28.54)  243.925 ms  244.086 ms  243.826 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.092 ms  243.958 ms  243.902 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.393 ms  244.151 ms  244.259 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.183 ms  0.173 ms  0.189 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.324 ms  0.316 ms  0.311 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.914 ms  11.047 ms  11.042 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.669 ms  24.836 ms  24.942 ms
+ 5  170.79.213.3 (170.79.213.3)  65.901 ms  65.930 ms  65.974 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.668 ms  65.831 ms  65.530 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.955 ms  67.027 ms  67.031 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.982 ms  171.926 ms  171.907 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.864 ms  178.850 ms  178.878 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.932 ms  184.895 ms  185.050 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.864 ms  202.836 ms  202.805 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.686 ms  202.686 ms  202.608 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.438 ms  210.436 ms  210.457 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.584 ms  233.377 ms  233.511 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.226 ms  246.742 ms  244.588 ms
+16  64.57.28.54 (64.57.28.54)  243.789 ms  243.895 ms  244.283 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.046 ms  244.025 ms  243.826 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.081 ms  244.128 ms  244.169 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.143 ms  0.152 ms  0.170 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.287 ms  0.273 ms  0.258 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.816 ms  10.941 ms  10.931 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  26.484 ms  26.617 ms  26.610 ms
+ 5  170.79.213.3 (170.79.213.3)  65.916 ms  65.960 ms  65.984 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.724 ms  65.992 ms  65.824 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.940 ms  66.403 ms  66.554 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.214 ms  172.149 ms  172.170 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.081 ms  178.951 ms  179.042 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.769 ms  185.021 ms  184.866 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.737 ms  202.733 ms  202.748 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  205.857 ms  204.683 ms  204.555 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.419 ms  210.598 ms  210.407 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.664 ms  233.692 ms  233.779 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.688 ms  243.777 ms  243.780 ms
+16  64.57.28.54 (64.57.28.54)  243.906 ms  243.848 ms  244.037 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.140 ms  244.029 ms  244.066 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.246 ms  244.182 ms  244.114 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.170 ms  0.184 ms  0.196 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.319 ms  0.310 ms  0.297 ms
+ 3  200.143.253.50 (200.143.253.50)  16.204 ms  16.380 ms  16.373 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  32.288 ms  32.330 ms  32.362 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  49.974 ms  52.248 ms  52.172 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  50.860 ms  51.519 ms  51.716 ms
+ 8  us-br.redclara.net (200.0.204.9)  156.284 ms  156.117 ms  156.796 ms
+ 9  i2-us.redclara.net (200.0.207.10)  163.541 ms  163.955 ms  163.739 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  170.562 ms  169.680 ms  169.540 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  186.796 ms  187.524 ms  187.041 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  186.759 ms  197.218 ms  187.511 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  195.303 ms  195.402 ms  195.287 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  220.406 ms  219.321 ms  219.609 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  229.670 ms  230.137 ms  229.792 ms
+16  64.57.28.54 (64.57.28.54)  228.082 ms  228.286 ms  227.924 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  229.004 ms  228.174 ms  229.017 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  228.059 ms  228.175 ms  228.323 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.156 ms  0.148 ms  0.167 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  2.768 ms  2.827 ms  2.817 ms
+ 3  200.143.253.50 (200.143.253.50)  16.202 ms  16.247 ms  16.286 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.743 ms  30.839 ms  30.830 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  50.839 ms  50.516 ms  50.529 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  50.645 ms  51.183 ms  51.043 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.762 ms  172.663 ms  171.762 ms
+ 9  i2-us.redclara.net (200.0.207.10)  162.929 ms  162.894 ms  162.954 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  170.524 ms  169.130 ms  169.899 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  186.652 ms  186.556 ms  186.917 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  186.795 ms  187.085 ms  189.731 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  196.713 ms  195.978 ms  196.354 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.990 ms  233.396 ms  233.242 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  233.763 ms  228.503 ms  228.595 ms
+16  64.57.28.54 (64.57.28.54)  243.548 ms  243.444 ms  243.460 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  228.916 ms  229.906 ms  230.845 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  228.948 ms  229.578 ms  228.926 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.166 ms  0.165 ms  0.177 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.273 ms  0.289 ms  0.278 ms
+ 3  200.143.253.50 (200.143.253.50)  16.096 ms  16.126 ms  16.078 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.776 ms  30.812 ms  30.871 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  50.644 ms  51.854 ms  51.818 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  52.277 ms  52.339 ms  51.575 ms
+ 8  us-br.redclara.net (200.0.204.9)  155.957 ms  156.284 ms  156.950 ms
+ 9  i2-us.redclara.net (200.0.207.10)  166.314 ms  163.449 ms  164.336 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  170.009 ms  169.808 ms  168.798 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  190.622 ms  190.852 ms  190.143 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  187.397 ms  187.945 ms  187.445 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  195.430 ms  194.706 ms  194.683 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  218.530 ms  218.609 ms  219.507 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  229.009 ms  229.358 ms  229.778 ms
+16  64.57.28.54 (64.57.28.54)  229.834 ms  229.903 ms  228.426 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  229.259 ms  230.366 ms  229.921 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  229.593 ms  228.984 ms  229.807 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.193 ms  0.203 ms  0.187 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.292 ms  0.289 ms  0.283 ms
+ 3  200.143.253.50 (200.143.253.50)  16.236 ms  16.481 ms  16.476 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.737 ms  30.851 ms  30.827 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  51.997 ms  51.085 ms  51.059 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  51.611 ms  51.193 ms  51.938 ms
+ 8  us-br.redclara.net (200.0.204.9)  157.202 ms  158.021 ms  158.174 ms
+ 9  i2-us.redclara.net (200.0.207.10)  162.889 ms  163.131 ms  163.140 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  169.636 ms  169.650 ms  171.494 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  187.318 ms  188.313 ms  188.315 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  188.200 ms  187.726 ms  188.540 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  195.992 ms  196.078 ms  195.433 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  219.185 ms  218.360 ms  218.291 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  227.940 ms  231.205 ms  230.121 ms
+16  64.57.28.54 (64.57.28.54)  229.470 ms  228.768 ms  228.834 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  228.961 ms  230.734 ms  231.329 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  229.036 ms  229.207 ms  229.703 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.175 ms  0.170 ms  0.174 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.321 ms  0.315 ms  0.302 ms
+ 3  200.143.253.50 (200.143.253.50)  17.745 ms  17.826 ms  17.811 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.760 ms  30.818 ms  30.852 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  64.464 ms  64.413 ms  65.157 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.344 ms  65.406 ms  65.390 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.426 ms  171.513 ms  170.684 ms
+ 9  i2-us.redclara.net (200.0.207.10)  177.755 ms  178.318 ms  177.480 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  170.743 ms  169.015 ms  169.071 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  187.603 ms  186.890 ms  187.570 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  187.631 ms  186.713 ms  186.873 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  209.212 ms  209.910 ms  209.226 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.160 ms  232.269 ms  233.094 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  242.532 ms  243.388 ms  242.554 ms
+16  64.57.28.54 (64.57.28.54)  228.006 ms  228.945 ms  228.208 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.517 ms  242.774 ms  242.639 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  230.385 ms  229.522 ms  230.333 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.135 ms  0.134 ms  0.157 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  4.727 ms  4.777 ms  4.767 ms
+ 3  200.143.253.50 (200.143.253.50)  16.291 ms  16.465 ms  16.453 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.761 ms  30.832 ms  30.841 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  65.418 ms  65.301 ms  65.368 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  67.250 ms  66.928 ms  66.972 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.828 ms  171.920 ms  171.770 ms
+ 9  i2-us.redclara.net (200.0.207.10)  164.622 ms  163.741 ms  163.807 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  169.897 ms  169.539 ms  170.362 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.458 ms  203.284 ms  202.388 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  186.734 ms  187.779 ms  186.867 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  195.598 ms  195.828 ms  196.169 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  219.937 ms  220.216 ms  217.794 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  245.712 ms  243.622 ms  244.211 ms
+16  64.57.28.54 (64.57.28.54)  243.619 ms  243.531 ms  243.679 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  228.305 ms  228.168 ms  228.869 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  229.712 ms  229.850 ms  228.999 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.129 ms  0.152 ms  0.162 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  15.172 ms  15.447 ms  15.444 ms
+ 3  200.143.253.50 (200.143.253.50)  16.304 ms  16.345 ms  16.465 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.717 ms  30.873 ms  30.869 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  65.439 ms  66.151 ms  65.313 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  51.701 ms  50.698 ms  50.624 ms
+ 8  us-br.redclara.net (200.0.204.9)  156.331 ms  156.358 ms  156.179 ms
+ 9  i2-us.redclara.net (200.0.207.10)  163.715 ms  162.925 ms  162.979 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  168.993 ms  169.793 ms  170.206 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  187.416 ms  186.885 ms  186.753 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  186.912 ms  187.755 ms  186.979 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  195.332 ms  194.735 ms  194.644 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  217.948 ms  217.696 ms  218.502 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.305 ms  243.420 ms  244.112 ms
+16  64.57.28.54 (64.57.28.54)  243.538 ms  243.413 ms  243.591 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  228.106 ms  228.876 ms  228.054 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  228.924 ms  229.016 ms  228.212 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.168 ms  0.168 ms  0.184 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.305 ms  0.296 ms  0.286 ms
+ 3  200.143.253.50 (200.143.253.50)  16.239 ms  16.296 ms  16.326 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.771 ms  30.940 ms  30.930 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  50.870 ms  50.115 ms  50.761 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  51.894 ms  51.064 ms  51.005 ms
+ 8  us-br.redclara.net (200.0.204.9)  157.282 ms  156.986 ms  156.230 ms
+ 9  i2-us.redclara.net (200.0.207.10)  163.245 ms  162.963 ms  162.864 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  168.874 ms  169.071 ms  169.098 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  187.775 ms  186.863 ms  186.885 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  186.868 ms  187.245 ms  187.672 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  195.312 ms  195.216 ms  196.048 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  217.558 ms  218.680 ms  217.905 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  228.292 ms  229.081 ms  228.645 ms
+16  64.57.28.54 (64.57.28.54)  228.780 ms  228.176 ms  228.815 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  229.055 ms  228.843 ms  228.815 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  228.900 ms  228.204 ms  228.138 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.160 ms  0.219 ms  0.164 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.316 ms  0.318 ms  0.302 ms
+ 3  200.143.253.50 (200.143.253.50)  16.154 ms  16.199 ms  16.251 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.861 ms  30.987 ms  30.974 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  50.680 ms  50.642 ms  49.886 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  51.589 ms  51.381 ms  51.443 ms
+ 8  us-br.redclara.net (200.0.204.9)  157.246 ms  156.881 ms  156.402 ms
+ 9  i2-us.redclara.net (200.0.207.10)  164.512 ms  164.604 ms  163.818 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  169.994 ms  168.972 ms  168.928 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  186.986 ms  187.025 ms  187.001 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  186.599 ms  187.015 ms  187.232 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  195.377 ms  194.713 ms  196.200 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  218.581 ms  217.714 ms  218.764 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  229.984 ms  231.595 ms  230.884 ms
+16  64.57.28.54 (64.57.28.54)  231.464 ms  232.223 ms  228.730 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  228.186 ms  228.266 ms  228.931 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  229.016 ms  229.141 ms  228.260 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.172 ms  0.174 ms  0.318 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.306 ms  0.296 ms  0.189 ms
+ 3  200.143.253.50 (200.143.253.50)  16.197 ms  16.228 ms  16.290 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.714 ms  30.758 ms  30.790 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  65.362 ms  66.152 ms  65.402 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.421 ms  66.432 ms  66.292 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.056 ms  171.753 ms  171.828 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.699 ms  179.417 ms  178.568 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.695 ms  184.746 ms  184.530 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  187.768 ms  187.046 ms  187.945 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.325 ms  202.285 ms  203.091 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.549 ms  210.468 ms  210.205 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  219.093 ms  218.441 ms  219.237 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.347 ms  243.496 ms  243.525 ms
+16  64.57.28.54 (64.57.28.54)  243.896 ms  244.356 ms  244.241 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  229.660 ms  229.643 ms  229.532 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  243.804 ms * *
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.164 ms  0.177 ms  0.166 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.294 ms  0.294 ms  0.282 ms
+ 3  200.143.253.50 (200.143.253.50)  16.171 ms  16.225 ms  16.276 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.816 ms  30.881 ms  30.898 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  50.697 ms  50.626 ms  49.902 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  51.788 ms  51.395 ms  51.473 ms
+ 8  us-br.redclara.net (200.0.204.9)  157.182 ms  156.406 ms  156.480 ms
+ 9  i2-us.redclara.net (200.0.207.10)  163.779 ms  163.752 ms  164.327 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  169.030 ms  168.875 ms  169.689 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  187.484 ms  187.758 ms  188.221 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  187.494 ms  187.461 ms  187.439 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  194.509 ms  194.604 ms  195.347 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  217.819 ms  218.587 ms  217.953 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  231.264 ms  231.846 ms  230.491 ms
+16  64.57.28.54 (64.57.28.54)  228.120 ms  228.101 ms  227.985 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  228.115 ms  229.626 ms  228.484 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  229.697 ms  229.139 ms  229.056 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.182 ms  0.166 ms  0.186 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.298 ms  0.289 ms  0.276 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.911 ms  10.968 ms  11.002 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.683 ms  24.887 ms  24.878 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.906 ms  24.938 ms  24.996 ms
+ 6  170.79.213.14 (170.79.213.14)  65.675 ms  66.210 ms  65.959 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.915 ms  67.115 ms  67.083 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.119 ms  172.049 ms  172.696 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.888 ms  178.978 ms  179.028 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.262 ms  185.242 ms  185.094 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.505 ms  202.635 ms  202.618 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  203.478 ms  202.551 ms  202.577 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.568 ms  210.480 ms  210.454 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.530 ms  233.617 ms  233.645 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.783 ms  244.038 ms  244.008 ms
+16  64.57.28.54 (64.57.28.54)  243.861 ms  243.890 ms  244.110 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.212 ms  243.979 ms  243.964 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.294 ms  244.117 ms  244.357 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.162 ms  0.154 ms  0.189 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.303 ms  0.291 ms  0.357 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  12.752 ms  12.891 ms  12.878 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.763 ms  24.877 ms  24.867 ms
+ 5  170.79.213.3 (170.79.213.3)  66.526 ms  66.575 ms  66.626 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.761 ms  65.787 ms  65.812 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.566 ms  66.629 ms  66.708 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.051 ms  172.126 ms  172.208 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.809 ms  178.944 ms  179.072 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.900 ms  185.204 ms  184.725 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.452 ms  202.603 ms  202.595 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.711 ms  202.664 ms  202.604 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.771 ms  210.344 ms  210.552 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.568 ms  233.428 ms  233.584 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.743 ms  243.793 ms  254.539 ms
+16  64.57.28.54 (64.57.28.54)  243.890 ms  243.816 ms  243.925 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.982 ms  245.017 ms  245.009 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.086 ms  244.119 ms  244.071 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.202 ms  0.212 ms  0.228 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.326 ms  0.316 ms  0.304 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.887 ms  10.929 ms  10.968 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  25.959 ms  26.036 ms  25.992 ms
+ 5  170.79.213.3 (170.79.213.3)  65.947 ms  65.983 ms  66.013 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.598 ms  65.625 ms  65.772 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.699 ms  66.392 ms  66.460 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.075 ms  172.010 ms  172.053 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.746 ms  178.698 ms  178.746 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.818 ms  184.963 ms  184.778 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.504 ms  202.638 ms  202.492 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.599 ms  202.670 ms  202.552 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.281 ms  210.320 ms  210.412 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.456 ms  233.570 ms  233.605 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.697 ms  245.370 ms  243.678 ms
+16  64.57.28.54 (64.57.28.54)  244.292 ms  243.773 ms  243.779 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.973 ms  243.854 ms  243.948 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.004 ms  244.019 ms  243.976 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.164 ms  0.187 ms  0.149 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.346 ms  0.342 ms  0.329 ms
+ 3  200.143.253.50 (200.143.253.50)  16.242 ms  16.291 ms  16.335 ms
+ 4  go-to-oi.bkb.rnp.br (200.143.252.170)  30.808 ms  30.851 ms  30.901 ms
+ 5  * * *
+ 6  170.79.213.5 (170.79.213.5)  57.965 ms  57.870 ms  58.602 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  58.931 ms  59.290 ms  59.333 ms
+ 8  us-br.redclara.net (200.0.204.9)  164.004 ms  163.944 ms  164.052 ms
+ 9  i2-us.redclara.net (200.0.207.10)  165.735 ms  165.959 ms  166.164 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  177.039 ms  176.865 ms  176.970 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  192.343 ms  189.921 ms  192.064 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  194.557 ms  194.824 ms  194.614 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  197.656 ms  198.102 ms  197.696 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  226.395 ms  226.441 ms  225.683 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  228.244 ms  230.358 ms  230.873 ms
+16  64.57.28.54 (64.57.28.54)  236.601 ms  236.712 ms  236.639 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  236.063 ms  236.043 ms  236.000 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  236.216 ms  237.013 ms  237.119 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  1.108 ms  1.109 ms  1.116 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.334 ms  0.330 ms  0.315 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.849 ms  10.893 ms  10.920 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.640 ms  24.809 ms  24.770 ms
+ 5  170.79.213.3 (170.79.213.3)  66.020 ms  66.012 ms  66.040 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.634 ms  65.691 ms  65.591 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.524 ms  66.395 ms  66.341 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.952 ms  171.927 ms  171.936 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.838 ms  178.818 ms  178.839 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.701 ms  184.962 ms  184.991 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.671 ms  203.137 ms  202.982 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  207.450 ms  207.802 ms  202.779 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.735 ms  210.568 ms  210.661 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  242.511 ms  242.560 ms  242.553 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.822 ms  243.847 ms  243.583 ms
+16  64.57.28.54 (64.57.28.54)  243.666 ms  243.825 ms  243.809 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.952 ms  244.036 ms  244.010 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.076 ms  244.040 ms  243.885 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.173 ms  0.192 ms  0.181 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.307 ms  0.304 ms  0.293 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  11.000 ms  11.083 ms  11.072 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  26.180 ms  26.276 ms  26.266 ms
+ 5  170.79.213.3 (170.79.213.3)  65.849 ms  65.923 ms  65.964 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.877 ms  65.754 ms  65.750 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.681 ms  66.359 ms  66.414 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.012 ms  171.796 ms  171.920 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.901 ms  179.076 ms  178.890 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.983 ms  185.015 ms  185.055 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.814 ms  202.735 ms  202.770 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.809 ms  202.731 ms  202.945 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.497 ms  210.296 ms  210.434 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.538 ms  233.508 ms  239.149 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.713 ms  243.790 ms  243.846 ms
+16  64.57.28.54 (64.57.28.54)  243.867 ms  244.796 ms  244.864 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.226 ms  244.274 ms  244.266 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.242 ms  243.923 ms  244.014 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.149 ms  0.236 ms  0.238 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.309 ms  0.298 ms  0.285 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.882 ms  10.925 ms  10.984 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.672 ms  24.725 ms  24.754 ms
+ 5  170.79.213.3 (170.79.213.3)  66.051 ms  66.071 ms  66.063 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.622 ms  65.591 ms  67.692 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.572 ms  66.664 ms  66.707 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.134 ms  172.129 ms  172.172 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.800 ms  178.881 ms  179.022 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.792 ms  184.827 ms  184.626 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.834 ms  202.900 ms  202.899 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.580 ms  202.693 ms  202.507 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.392 ms  210.491 ms  210.385 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.428 ms  233.501 ms  233.395 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.742 ms  243.723 ms  243.633 ms
+16  64.57.28.54 (64.57.28.54)  243.878 ms  243.928 ms  243.833 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.882 ms  243.913 ms  243.874 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.218 ms  244.101 ms  244.175 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.177 ms  0.190 ms  0.184 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.262 ms  0.284 ms  0.278 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.917 ms  10.980 ms  11.031 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.873 ms  25.076 ms  25.067 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.870 ms  24.858 ms  24.848 ms
+ 6  170.79.213.14 (170.79.213.14)  66.046 ms  65.973 ms  66.005 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  67.046 ms  67.099 ms  67.085 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.225 ms  172.377 ms  172.348 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.087 ms  179.140 ms  179.108 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.168 ms  185.317 ms  185.352 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.711 ms  202.529 ms  202.801 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.801 ms  202.533 ms  202.811 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  211.053 ms  211.271 ms  211.242 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  234.021 ms  234.082 ms  234.185 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.255 ms  244.228 ms  244.217 ms
+16  64.57.28.54 (64.57.28.54)  244.120 ms  244.171 ms  244.209 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.382 ms  244.372 ms  244.260 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.363 ms  244.466 ms  244.519 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.279 ms  0.285 ms  0.266 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.313 ms  0.307 ms  0.293 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.927 ms  10.984 ms  11.042 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.775 ms  24.782 ms  24.847 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  28.583 ms  28.619 ms  28.585 ms
+ 6  170.79.213.14 (170.79.213.14)  65.835 ms  66.012 ms  65.906 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.649 ms  66.680 ms  66.681 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.067 ms  172.207 ms  172.192 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.055 ms  179.061 ms  179.116 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  187.633 ms  185.128 ms  185.005 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.115 ms  202.911 ms  202.894 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.802 ms  202.828 ms  202.919 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.529 ms  210.722 ms  211.315 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.661 ms  233.755 ms  233.745 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.001 ms  244.063 ms  243.812 ms
+16  64.57.28.54 (64.57.28.54)  244.005 ms  243.980 ms  244.043 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.992 ms  244.121 ms  243.915 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.362 ms  244.145 ms  244.101 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.184 ms  0.180 ms  0.197 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.272 ms  0.268 ms  0.278 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.928 ms  10.967 ms  11.004 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  25.784 ms  25.929 ms  25.923 ms
+ 5  170.79.213.3 (170.79.213.3)  66.056 ms  66.313 ms  66.305 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.611 ms  65.584 ms  65.568 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.419 ms  66.258 ms  66.316 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.103 ms  171.915 ms  171.993 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.786 ms  178.655 ms  178.720 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.704 ms  184.803 ms  184.612 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.737 ms  202.752 ms  202.986 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.785 ms  202.896 ms  202.888 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.274 ms  210.576 ms  210.428 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.498 ms  233.353 ms  233.372 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.948 ms  243.944 ms  243.847 ms
+16  64.57.28.54 (64.57.28.54)  243.912 ms  243.867 ms  243.865 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.104 ms  243.978 ms  244.067 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.249 ms  244.260 ms  244.358 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.742 ms  0.776 ms  0.792 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.333 ms  0.331 ms  0.319 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.919 ms  10.981 ms  11.010 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.695 ms  24.759 ms  24.786 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.712 ms  24.729 ms  24.800 ms
+ 6  170.79.213.14 (170.79.213.14)  65.822 ms  65.945 ms  65.951 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  67.022 ms  66.524 ms  66.489 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.165 ms  172.076 ms  172.169 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.076 ms  179.144 ms  179.224 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.130 ms  185.167 ms  185.318 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.809 ms  203.210 ms  203.150 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.909 ms  202.692 ms  202.704 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.747 ms  221.895 ms  213.976 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.713 ms  233.750 ms  233.770 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.918 ms  244.257 ms  244.209 ms
+16  64.57.28.54 (64.57.28.54)  244.082 ms  244.448 ms  244.393 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.321 ms  244.226 ms  244.247 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.698 ms  245.071 ms  244.442 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.194 ms  0.207 ms  0.217 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.267 ms  0.296 ms  0.289 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.949 ms  11.045 ms  11.038 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  26.844 ms  26.875 ms  26.949 ms
+ 5  170.79.213.3 (170.79.213.3)  65.902 ms  65.943 ms  66.013 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.789 ms  65.727 ms  65.638 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.530 ms  66.521 ms  66.614 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.045 ms  171.857 ms  171.898 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.786 ms  178.901 ms  178.959 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.983 ms  185.125 ms  185.164 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.902 ms  202.872 ms  202.926 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.654 ms  202.580 ms  202.549 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.787 ms  210.629 ms  210.641 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  234.482 ms  233.528 ms  233.497 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.796 ms  243.893 ms  243.700 ms
+16  64.57.28.54 (64.57.28.54)  243.729 ms  243.946 ms  243.700 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.946 ms  244.188 ms  244.036 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.228 ms  244.309 ms  244.059 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.178 ms  0.195 ms  0.195 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.323 ms  0.321 ms  0.311 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.834 ms  10.955 ms  10.945 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.696 ms  24.926 ms  24.912 ms
+ 5  170.79.213.3 (170.79.213.3)  65.955 ms  65.997 ms  66.015 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.652 ms  65.647 ms  65.602 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.674 ms  66.347 ms  66.542 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.961 ms  172.102 ms  172.173 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.818 ms  178.895 ms  178.747 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  186.486 ms  184.885 ms  184.664 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.732 ms  202.527 ms  202.677 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.416 ms  202.778 ms  202.644 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  211.290 ms  210.495 ms  210.405 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.473 ms  233.349 ms  233.679 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  245.318 ms  243.688 ms  243.799 ms
+16  64.57.28.54 (64.57.28.54)  243.805 ms  243.632 ms  243.751 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.890 ms  243.852 ms  243.959 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.017 ms  243.958 ms  244.084 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.187 ms  0.196 ms  0.196 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  1.771 ms  1.853 ms  1.844 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.937 ms  11.182 ms  11.179 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.689 ms  24.769 ms  24.760 ms
+ 5  170.79.213.3 (170.79.213.3)  66.563 ms  66.649 ms  66.672 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.587 ms  65.603 ms  65.632 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.795 ms  66.547 ms  66.571 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.987 ms  171.793 ms  171.759 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.074 ms  178.881 ms  178.877 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.637 ms  184.850 ms  184.684 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.021 ms  202.827 ms  202.940 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.856 ms  202.525 ms  203.126 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.520 ms  210.470 ms  210.747 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  234.081 ms  233.465 ms  233.562 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.772 ms  243.745 ms  243.709 ms
+16  64.57.28.54 (64.57.28.54)  243.670 ms  244.022 ms  243.740 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.981 ms  243.821 ms  243.788 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.284 ms  243.988 ms  244.125 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.193 ms  0.204 ms  0.198 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.314 ms  0.334 ms  0.340 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.970 ms  11.132 ms  11.127 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.674 ms  24.757 ms  24.750 ms
+ 5  170.79.213.3 (170.79.213.3)  66.281 ms  66.337 ms  66.480 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.629 ms  65.564 ms  65.594 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.739 ms  66.823 ms  66.812 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.192 ms  172.346 ms  172.570 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.858 ms  178.770 ms  178.845 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.599 ms  184.704 ms  184.852 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.546 ms  202.577 ms  202.571 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.362 ms  202.422 ms  202.450 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.280 ms  210.555 ms  210.511 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.273 ms  234.663 ms  233.287 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.633 ms  244.714 ms  244.301 ms
+16  64.57.28.54 (64.57.28.54)  243.817 ms  243.789 ms  243.774 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.711 ms  243.725 ms  243.700 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  243.979 ms  244.129 ms  244.111 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.205 ms  0.188 ms  0.242 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  2.748 ms  2.784 ms  2.772 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.881 ms  11.097 ms  11.085 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.711 ms  24.789 ms  24.783 ms
+ 5  170.79.213.3 (170.79.213.3)  65.976 ms  66.132 ms  66.126 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  95.190 ms  65.739 ms  65.711 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.291 ms  66.220 ms  66.264 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.138 ms  172.073 ms  172.113 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.100 ms  178.960 ms  178.972 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.623 ms  184.933 ms  185.054 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.664 ms  202.724 ms  202.758 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.890 ms  202.748 ms  202.782 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.639 ms  210.428 ms  215.242 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.484 ms  233.530 ms  233.522 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.711 ms  244.438 ms  244.474 ms
+16  64.57.28.54 (64.57.28.54)  244.127 ms  243.746 ms  243.849 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  252.517 ms  252.578 ms  252.538 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.070 ms  244.039 ms  244.258 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.196 ms  0.206 ms  0.189 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.307 ms  0.355 ms  0.344 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.879 ms  11.018 ms  11.013 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.635 ms  24.762 ms  24.621 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.593 ms  30.195 ms  30.065 ms
+ 6  170.79.213.14 (170.79.213.14)  65.875 ms  68.039 ms  65.841 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  67.089 ms  67.136 ms  67.197 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.222 ms  172.136 ms  172.267 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.816 ms  179.167 ms  179.312 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.303 ms  185.384 ms  184.953 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.660 ms  202.595 ms  203.158 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.834 ms  202.890 ms  202.995 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.818 ms  210.798 ms  210.748 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.684 ms  233.730 ms  233.866 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.060 ms  244.156 ms  244.323 ms
+16  64.57.28.54 (64.57.28.54)  244.265 ms  244.526 ms  245.042 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.243 ms  244.234 ms  244.395 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.470 ms  244.456 ms  244.469 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.179 ms  0.211 ms  0.230 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.263 ms  0.275 ms  0.245 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  11.089 ms  11.121 ms  11.181 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  25.043 ms  25.210 ms  25.203 ms
+ 5  170.79.213.3 (170.79.213.3)  65.955 ms  66.009 ms  66.016 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.757 ms  65.620 ms  66.368 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.536 ms  66.527 ms  66.607 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.951 ms  171.835 ms  171.963 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.854 ms  178.647 ms  178.651 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.749 ms  186.242 ms  186.212 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.084 ms  203.092 ms  202.804 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  203.502 ms  202.798 ms  202.826 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.726 ms  210.968 ms  211.073 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.591 ms  233.612 ms  233.671 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.763 ms  243.874 ms  243.857 ms
+16  64.57.28.54 (64.57.28.54)  243.900 ms  243.872 ms  243.874 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.085 ms  244.059 ms  243.907 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.182 ms  243.908 ms  243.968 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.158 ms  0.183 ms  0.155 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.305 ms  0.377 ms  0.364 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.837 ms  10.889 ms  10.907 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.632 ms  24.691 ms  24.720 ms
+ 5  170.79.213.3 (170.79.213.3)  66.063 ms  66.055 ms  66.046 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.766 ms  70.376 ms  65.626 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.459 ms  66.315 ms  66.411 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.185 ms  172.137 ms  172.194 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.835 ms  179.071 ms  179.115 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.899 ms  185.100 ms  185.271 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.285 ms  203.172 ms  203.328 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  203.008 ms  203.013 ms  203.016 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.418 ms  210.555 ms  210.418 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.412 ms  233.599 ms  233.721 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.875 ms  244.005 ms  244.077 ms
+16  64.57.28.54 (64.57.28.54)  243.897 ms  244.092 ms  243.819 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.978 ms  243.969 ms  243.875 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.034 ms  244.250 ms  244.209 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.201 ms  0.207 ms  0.220 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.313 ms  0.306 ms  0.329 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.923 ms  10.960 ms  11.040 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.693 ms  24.689 ms  24.757 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.644 ms  24.515 ms  24.644 ms
+ 6  170.79.213.14 (170.79.213.14)  65.748 ms  66.464 ms  65.658 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.640 ms  66.326 ms  66.368 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.111 ms  172.096 ms  172.207 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.721 ms  178.940 ms  178.978 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.832 ms  185.007 ms  184.822 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.570 ms  202.571 ms  202.744 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  222.629 ms  202.799 ms  202.860 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.657 ms  210.419 ms  210.590 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.787 ms  233.545 ms  233.609 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.899 ms  243.896 ms  243.959 ms
+16  64.57.28.54 (64.57.28.54)  243.936 ms  243.821 ms  243.794 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.935 ms  243.912 ms  244.008 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.263 ms  244.043 ms  244.176 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.149 ms  0.147 ms  0.161 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.325 ms  0.316 ms  0.321 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.792 ms  10.834 ms  10.884 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.663 ms  24.842 ms  24.811 ms
+ 5  170.79.213.3 (170.79.213.3)  65.821 ms  65.839 ms  65.950 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.608 ms  65.543 ms  65.560 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.564 ms  66.634 ms  66.659 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.853 ms  171.959 ms  172.096 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.920 ms  178.894 ms  178.896 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.597 ms  184.855 ms  185.191 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.516 ms  204.474 ms  203.874 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.422 ms  202.719 ms  202.677 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.370 ms  210.475 ms  210.371 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.531 ms  233.705 ms  233.356 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.604 ms  243.997 ms  243.646 ms
+16  64.57.28.54 (64.57.28.54)  244.679 ms  244.149 ms  244.255 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.274 ms  243.881 ms  243.944 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.096 ms  244.014 ms  243.940 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.136 ms  0.134 ms  0.155 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.423 ms  0.370 ms  0.349 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.880 ms  11.212 ms  11.178 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.739 ms  24.886 ms  24.869 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.858 ms  24.887 ms  24.917 ms
+ 6  170.79.213.14 (170.79.213.14)  65.672 ms  65.820 ms  65.770 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.783 ms  66.465 ms  66.449 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.803 ms  172.632 ms  172.658 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.005 ms  179.162 ms  179.348 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.071 ms  184.732 ms  184.734 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.604 ms  202.861 ms  202.786 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.540 ms  202.837 ms  202.695 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.370 ms  210.747 ms  210.528 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.672 ms  233.401 ms  233.644 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.887 ms  243.559 ms  243.689 ms
+16  64.57.28.54 (64.57.28.54)  243.690 ms  243.940 ms  243.966 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.926 ms  243.920 ms  243.871 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.078 ms  244.115 ms  244.038 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.190 ms  0.183 ms  0.185 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.318 ms  0.308 ms  0.295 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.924 ms  11.073 ms  11.065 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.773 ms  24.791 ms  24.828 ms
+ 5  170.79.213.3 (170.79.213.3)  66.860 ms  66.881 ms  66.937 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.871 ms  65.719 ms  65.632 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.763 ms  66.453 ms  66.432 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.100 ms  172.074 ms  172.190 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.134 ms  179.146 ms  179.118 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.782 ms  185.095 ms  184.961 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.092 ms  203.162 ms  204.177 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.880 ms  202.613 ms  202.909 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.613 ms  210.588 ms  210.631 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.596 ms  233.831 ms  233.742 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.425 ms  244.280 ms  245.150 ms
+16  64.57.28.54 (64.57.28.54)  243.735 ms  244.331 ms  243.953 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.143 ms  244.223 ms  244.213 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.160 ms  244.156 ms  244.324 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.254 ms  0.243 ms  0.212 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  5.277 ms  5.304 ms  5.292 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  11.021 ms  11.081 ms  11.070 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.658 ms  24.743 ms  24.736 ms
+ 5  170.79.213.3 (170.79.213.3)  65.874 ms  65.875 ms  65.947 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.750 ms  65.614 ms  65.611 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.570 ms  66.307 ms  66.427 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.961 ms  171.795 ms  171.983 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.993 ms  178.694 ms  178.885 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.854 ms  184.830 ms  184.851 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.546 ms  202.621 ms  202.709 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.642 ms  202.624 ms  209.637 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  212.730 ms  210.482 ms  210.644 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.688 ms  233.550 ms  233.540 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.934 ms  243.529 ms  244.730 ms
+16  64.57.28.54 (64.57.28.54)  243.815 ms  243.557 ms  243.510 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.739 ms  243.755 ms  243.700 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.135 ms  243.972 ms  243.989 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.208 ms  0.205 ms  0.225 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.286 ms  0.279 ms  0.276 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.931 ms  10.983 ms  11.043 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.739 ms  24.898 ms  24.839 ms
+ 5  170.79.213.3 (170.79.213.3)  65.862 ms  65.922 ms  65.950 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.626 ms  65.582 ms  65.555 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.602 ms  66.547 ms  66.635 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.993 ms  172.298 ms  172.143 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.801 ms  179.083 ms  178.847 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.435 ms  184.901 ms  184.947 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.531 ms  202.658 ms  202.658 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.756 ms  202.855 ms  202.689 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.374 ms  210.533 ms  210.343 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.706 ms  233.550 ms  233.525 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.646 ms  243.730 ms  243.786 ms
+16  64.57.28.54 (64.57.28.54)  243.557 ms  243.600 ms  243.778 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.874 ms  243.885 ms  243.873 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.318 ms  244.080 ms  244.046 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.173 ms  0.182 ms  0.201 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.482 ms  0.470 ms  0.475 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.907 ms  10.947 ms  10.958 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.761 ms  24.795 ms  24.879 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.580 ms  24.685 ms  24.680 ms
+ 6  170.79.213.14 (170.79.213.14)  75.014 ms  74.504 ms  65.900 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.581 ms  66.532 ms  66.553 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.888 ms  172.185 ms  172.219 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.832 ms  178.824 ms  178.853 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.793 ms  184.803 ms  184.778 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.599 ms  203.033 ms  202.660 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.740 ms  202.755 ms  202.970 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.579 ms  210.459 ms  210.400 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.485 ms  233.568 ms  233.769 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.243 ms  244.089 ms  243.869 ms
+16  64.57.28.54 (64.57.28.54)  244.176 ms  244.608 ms  244.038 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.284 ms  243.953 ms  243.940 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.302 ms  244.243 ms  244.548 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.219 ms  0.226 ms  0.239 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.313 ms  0.302 ms  0.297 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.924 ms  10.991 ms  11.019 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.717 ms  24.766 ms  24.797 ms
+ 5  170.79.213.3 (170.79.213.3)  65.927 ms  66.076 ms  66.185 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.607 ms  65.609 ms  65.631 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.519 ms  66.625 ms  66.742 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.286 ms  172.182 ms  172.277 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.724 ms  178.596 ms  178.789 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.855 ms  184.847 ms  184.695 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.070 ms  202.751 ms  202.729 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.615 ms  202.853 ms  202.810 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.556 ms  210.371 ms  210.317 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.380 ms  233.448 ms  233.469 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.574 ms  243.785 ms  243.813 ms
+16  64.57.28.54 (64.57.28.54)  243.717 ms  244.802 ms  244.822 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.811 ms  243.850 ms  243.797 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.731 ms  244.076 ms  244.164 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.203 ms  0.193 ms  0.206 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.327 ms  0.315 ms  0.298 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.905 ms  11.012 ms  11.011 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.692 ms  24.948 ms  24.942 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  29.944 ms  30.051 ms  30.043 ms
+ 6  170.79.213.14 (170.79.213.14)  65.908 ms  65.836 ms  65.831 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.395 ms  66.533 ms  66.617 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.489 ms  172.144 ms  172.144 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.008 ms  178.822 ms  179.506 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.981 ms  184.913 ms  185.101 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.839 ms  213.985 ms  214.081 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.928 ms  203.145 ms  202.721 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  211.161 ms  210.909 ms  210.606 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.691 ms  233.666 ms  233.587 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.162 ms  243.984 ms  244.198 ms
+16  64.57.28.54 (64.57.28.54)  244.015 ms  244.105 ms  243.923 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.606 ms  244.629 ms  244.624 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.540 ms  244.315 ms  244.514 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.336 ms  0.436 ms  0.428 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.391 ms  0.381 ms  0.368 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.905 ms  10.944 ms  10.988 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.771 ms  24.719 ms  24.767 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.636 ms  24.662 ms  24.510 ms
+ 6  170.79.213.14 (170.79.213.14)  65.856 ms  65.749 ms  65.793 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.841 ms  66.756 ms  66.835 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.185 ms  171.956 ms  172.092 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.084 ms  178.970 ms  178.738 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.296 ms  185.129 ms  185.268 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.692 ms  203.099 ms  203.108 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.550 ms  202.715 ms  202.655 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.571 ms  210.692 ms  210.438 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.756 ms  233.725 ms  233.602 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.858 ms  243.825 ms  243.858 ms
+16  64.57.28.54 (64.57.28.54)  243.849 ms  244.059 ms  243.986 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.255 ms  244.177 ms  244.190 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.235 ms  244.606 ms  244.065 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  1.944 ms  2.003 ms  1.990 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.327 ms  0.327 ms  0.311 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.940 ms  11.048 ms  11.037 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.695 ms  24.966 ms  24.956 ms
+ 5  170.79.213.3 (170.79.213.3)  65.826 ms  65.860 ms  65.914 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.525 ms  65.599 ms  65.599 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.339 ms  66.232 ms  66.221 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.973 ms  171.696 ms  171.832 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.638 ms  178.717 ms  178.759 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.806 ms  184.816 ms  184.938 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.594 ms  202.419 ms  202.603 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.847 ms  202.829 ms  202.662 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.707 ms  210.323 ms  210.231 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.726 ms  233.653 ms  233.667 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.644 ms  243.853 ms  244.903 ms
+16  64.57.28.54 (64.57.28.54)  243.849 ms  243.766 ms  243.667 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.840 ms  244.412 ms  243.909 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.150 ms  244.144 ms  243.897 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.182 ms  0.207 ms  0.245 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.236 ms  0.327 ms  0.239 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.930 ms  10.954 ms  11.017 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  25.688 ms  25.739 ms  25.779 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.698 ms  24.512 ms  24.669 ms
+ 6  170.79.213.14 (170.79.213.14)  67.102 ms  67.559 ms  67.572 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.850 ms  66.864 ms  66.806 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.194 ms  172.061 ms  172.277 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.878 ms  179.116 ms  179.107 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.141 ms  185.096 ms  184.798 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.820 ms  203.004 ms  202.705 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.579 ms  202.660 ms  202.650 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.773 ms  210.535 ms  210.466 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.870 ms  233.730 ms  233.773 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.835 ms  243.708 ms  243.819 ms
+16  64.57.28.54 (64.57.28.54)  243.929 ms  243.911 ms  244.072 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.285 ms  244.311 ms  244.300 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.416 ms  244.090 ms  244.322 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.183 ms  0.196 ms  0.214 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.291 ms  0.283 ms  0.284 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.927 ms  10.974 ms  11.029 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.697 ms  24.771 ms  24.763 ms
+ 5  170.79.213.3 (170.79.213.3)  65.903 ms  65.937 ms  65.956 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  83.935 ms  83.054 ms  65.546 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.640 ms  66.272 ms  66.305 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.916 ms  171.863 ms  171.908 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.716 ms  178.731 ms  178.798 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.874 ms  184.855 ms  184.902 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.517 ms  202.751 ms  202.661 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.429 ms  202.597 ms  202.473 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.740 ms  210.423 ms  210.407 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.670 ms  233.544 ms  233.605 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  245.342 ms  244.159 ms  244.085 ms
+16  64.57.28.54 (64.57.28.54)  244.897 ms  244.627 ms  244.268 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.857 ms  244.030 ms  244.021 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.030 ms  244.102 ms  244.270 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.192 ms  0.216 ms  0.221 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.388 ms  0.397 ms  0.411 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  11.920 ms  12.014 ms  12.007 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.709 ms  24.804 ms  24.793 ms
+ 5  170.79.213.3 (170.79.213.3)  65.886 ms  65.877 ms  65.979 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.683 ms  65.650 ms  67.205 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.813 ms  66.789 ms  66.832 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.109 ms  171.900 ms  171.967 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.767 ms  178.868 ms  178.905 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.951 ms  184.931 ms  184.949 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.526 ms  202.477 ms  202.539 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.561 ms  202.533 ms  202.613 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.252 ms  210.519 ms  210.310 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.519 ms  233.583 ms  233.607 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.797 ms  243.581 ms  245.610 ms
+16  64.57.28.54 (64.57.28.54)  243.944 ms  243.747 ms  243.918 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.178 ms  243.916 ms  243.919 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.184 ms  244.241 ms  244.381 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.182 ms  0.198 ms  0.245 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.264 ms  0.253 ms  0.262 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.914 ms  10.926 ms  10.944 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.554 ms  24.633 ms  24.627 ms
+ 5  170.79.213.3 (170.79.213.3)  66.128 ms  66.152 ms  66.249 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  67.666 ms  65.756 ms  65.715 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.679 ms  66.848 ms  66.864 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.278 ms  171.969 ms  171.998 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.685 ms  178.877 ms  178.877 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.983 ms  186.549 ms  186.636 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.538 ms  202.660 ms  202.624 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.851 ms  203.240 ms  203.013 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.531 ms  210.511 ms  211.499 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.704 ms  233.686 ms  233.694 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.005 ms  244.134 ms  243.783 ms
+16  64.57.28.54 (64.57.28.54)  243.915 ms  243.743 ms  243.864 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.887 ms  243.943 ms  243.920 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.179 ms  244.304 ms  244.173 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.212 ms  0.231 ms  0.233 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.382 ms  0.380 ms  0.369 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  12.487 ms  12.544 ms  12.605 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.774 ms  24.920 ms  24.914 ms
+ 5  170.79.213.3 (170.79.213.3)  65.955 ms  65.941 ms  66.086 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.755 ms  65.873 ms  65.804 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.868 ms  66.473 ms  66.524 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.047 ms  171.838 ms  172.011 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.744 ms  179.271 ms  179.470 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.022 ms  185.556 ms  185.249 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.924 ms  203.038 ms  202.994 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.742 ms  202.832 ms  202.688 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.543 ms  213.499 ms  210.350 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.691 ms  233.618 ms  235.322 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.649 ms  244.163 ms  261.466 ms
+16  64.57.28.54 (64.57.28.54)  243.808 ms  244.004 ms  243.779 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  246.737 ms  246.727 ms  246.645 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.290 ms  244.481 ms  244.188 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.195 ms  0.192 ms  0.206 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.328 ms  0.318 ms  0.322 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.929 ms  10.964 ms  11.016 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.660 ms  24.862 ms  24.638 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.916 ms  25.015 ms  24.563 ms
+ 6  170.79.213.14 (170.79.213.14)  65.818 ms  65.837 ms  65.881 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.754 ms  66.778 ms  66.807 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.116 ms  171.993 ms  171.902 ms
+ 9  i2-us.redclara.net (200.0.207.10)  188.773 ms  178.978 ms  178.943 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.047 ms  185.159 ms  185.295 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.749 ms  202.803 ms  202.620 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  203.018 ms  202.746 ms  202.974 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  211.030 ms  210.668 ms  210.641 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.755 ms  233.776 ms  234.034 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.970 ms  244.075 ms  243.927 ms
+16  64.57.28.54 (64.57.28.54)  244.047 ms  243.996 ms  243.916 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.229 ms  244.090 ms  243.931 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.149 ms  244.268 ms  244.261 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.205 ms  0.204 ms  0.222 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  1.131 ms  1.125 ms  1.115 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.928 ms  11.166 ms  11.159 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  25.649 ms  25.688 ms  25.680 ms
+ 5  170.79.213.3 (170.79.213.3)  65.772 ms  65.994 ms  65.966 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.939 ms  65.690 ms  66.137 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.869 ms  66.638 ms  66.659 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.214 ms  172.121 ms  172.137 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.894 ms  179.037 ms  179.042 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.881 ms  184.876 ms  184.885 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.753 ms  202.663 ms  203.197 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  203.141 ms  202.808 ms  202.837 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  211.200 ms  211.189 ms  211.005 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.765 ms  233.612 ms  233.739 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.859 ms  243.887 ms  243.842 ms
+16  64.57.28.54 (64.57.28.54)  244.024 ms  243.996 ms  243.994 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.208 ms  244.183 ms  244.116 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.211 ms  244.000 ms  244.063 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.184 ms  0.184 ms  0.194 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.300 ms  0.330 ms  0.320 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.930 ms  11.041 ms  11.032 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.775 ms  24.773 ms  24.748 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.548 ms  24.685 ms  24.683 ms
+ 6  170.79.213.14 (170.79.213.14)  65.777 ms  67.897 ms  68.056 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.337 ms  66.469 ms  66.534 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.139 ms  172.034 ms  172.181 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.048 ms  178.952 ms  178.939 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.874 ms  184.851 ms  184.827 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.720 ms  202.778 ms  202.866 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.503 ms  202.560 ms  202.880 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.368 ms  210.618 ms  210.374 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.605 ms  233.583 ms  233.859 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.809 ms  243.950 ms  243.883 ms
+16  64.57.28.54 (64.57.28.54)  243.749 ms  244.005 ms  244.106 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.980 ms  243.994 ms  243.983 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.250 ms  244.190 ms  244.319 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.198 ms  0.199 ms  0.216 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.326 ms  0.325 ms  0.313 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.915 ms  10.969 ms  11.015 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.682 ms  24.929 ms  24.919 ms
+ 5  170.79.213.3 (170.79.213.3)  66.012 ms  66.005 ms  65.995 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.703 ms  65.623 ms  65.569 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.531 ms  66.328 ms  66.322 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.273 ms  172.057 ms  172.130 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.810 ms  179.189 ms  179.290 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.700 ms  184.940 ms  185.111 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.461 ms  202.720 ms  202.607 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.581 ms  202.515 ms  202.503 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.363 ms  210.259 ms  210.195 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.335 ms  233.354 ms  233.472 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.669 ms  243.684 ms  246.228 ms
+16  64.57.28.54 (64.57.28.54)  243.541 ms  243.968 ms  243.976 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.013 ms  243.960 ms  243.933 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.113 ms  243.995 ms  244.033 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.181 ms  0.200 ms  0.203 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.354 ms  0.347 ms  0.338 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.922 ms  11.058 ms  11.056 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.671 ms  24.732 ms  24.755 ms
+ 5  170.79.213.3 (170.79.213.3)  65.845 ms  65.869 ms  65.945 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.664 ms  65.674 ms  65.646 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.702 ms  66.893 ms  66.953 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.366 ms  172.129 ms  172.237 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.967 ms  179.051 ms  179.135 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.910 ms  184.821 ms  184.823 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.543 ms  202.548 ms  202.493 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.438 ms  203.019 ms  202.702 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.417 ms  210.657 ms  210.522 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.514 ms  233.492 ms  233.513 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.669 ms  243.674 ms  243.840 ms
+16  64.57.28.54 (64.57.28.54)  243.928 ms  243.996 ms  243.923 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.026 ms  244.019 ms  243.978 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.081 ms  244.374 ms  244.232 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.151 ms  0.183 ms  0.179 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.265 ms  0.260 ms  0.255 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.886 ms  11.024 ms  11.015 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.687 ms  24.631 ms  24.652 ms
+ 5  170.79.213.3 (170.79.213.3)  66.266 ms  66.317 ms  66.309 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.739 ms  65.656 ms  65.715 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.851 ms  66.919 ms  66.979 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.069 ms  171.870 ms  172.115 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.753 ms  179.058 ms  179.061 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.847 ms  184.814 ms  184.771 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.690 ms  202.477 ms  202.591 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.479 ms  202.593 ms  202.555 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.558 ms  210.391 ms  210.336 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.448 ms  233.873 ms  233.534 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.729 ms  243.769 ms  243.722 ms
+16  64.57.28.54 (64.57.28.54)  243.823 ms  243.857 ms  243.613 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.757 ms  243.828 ms  243.898 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.177 ms  244.194 ms  244.215 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.243 ms  0.225 ms  0.238 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.243 ms  0.232 ms  0.230 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.917 ms  11.035 ms  11.026 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.742 ms  24.737 ms  24.765 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.494 ms  25.467 ms  25.500 ms
+ 6  170.79.213.14 (170.79.213.14)  67.469 ms  65.967 ms  65.912 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.645 ms  66.699 ms  66.707 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.059 ms  172.163 ms  171.891 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.089 ms  178.990 ms  179.142 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.067 ms  184.894 ms  184.935 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.006 ms  203.142 ms  202.962 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.731 ms  202.971 ms  202.731 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.631 ms  210.562 ms  210.629 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.833 ms  234.852 ms  233.586 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  246.682 ms  243.982 ms  243.924 ms
+16  64.57.28.54 (64.57.28.54)  243.820 ms  243.904 ms  243.789 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.289 ms  244.319 ms  244.207 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.273 ms  244.269 ms  244.091 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.229 ms  0.242 ms  0.245 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.851 ms  0.844 ms  0.845 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.975 ms  11.051 ms  11.040 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.710 ms  24.942 ms  24.881 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  25.115 ms  25.217 ms  25.119 ms
+ 6  170.79.213.14 (170.79.213.14)  65.806 ms  65.856 ms  66.242 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.797 ms  66.487 ms  66.548 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.496 ms  172.053 ms  172.098 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.980 ms  179.188 ms  179.345 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.861 ms  185.112 ms  185.060 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.591 ms  217.705 ms  217.452 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.783 ms  202.895 ms  202.682 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.841 ms  210.638 ms  210.818 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.748 ms  233.791 ms  233.681 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.890 ms  243.997 ms  244.204 ms
+16  64.57.28.54 (64.57.28.54)  244.184 ms  244.176 ms  244.062 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.192 ms  244.132 ms  244.186 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.391 ms  244.502 ms  244.521 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.201 ms  0.221 ms  0.249 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.527 ms  0.519 ms  0.530 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.959 ms  11.467 ms  11.463 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.885 ms  24.886 ms  24.883 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.579 ms  24.830 ms  24.826 ms
+ 6  170.79.213.14 (170.79.213.14)  65.772 ms  65.771 ms  65.632 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.863 ms  66.797 ms  66.876 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.138 ms  172.408 ms  172.546 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.883 ms  180.791 ms  180.838 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.283 ms  185.342 ms  185.330 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.169 ms  202.904 ms  202.689 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.734 ms  202.570 ms  202.596 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.471 ms  210.509 ms  210.586 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.625 ms  233.615 ms  233.591 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.842 ms  247.382 ms  247.462 ms
+16  64.57.28.54 (64.57.28.54)  243.805 ms  243.769 ms  244.354 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.379 ms  244.000 ms  244.794 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.380 ms  244.627 ms  244.240 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.205 ms  0.312 ms  0.300 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.343 ms  0.341 ms  0.321 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  17.749 ms  17.805 ms  17.841 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.658 ms  24.712 ms  24.750 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.557 ms  24.648 ms  24.667 ms
+ 6  170.79.213.14 (170.79.213.14)  65.759 ms  65.653 ms  65.645 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.610 ms  66.631 ms  66.684 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.336 ms  172.177 ms  171.912 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.730 ms  178.737 ms  178.860 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.832 ms  184.979 ms  184.970 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.636 ms  202.731 ms  202.869 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.700 ms  202.550 ms  202.669 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.335 ms  210.432 ms  210.247 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.365 ms  233.424 ms  233.589 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.692 ms  243.636 ms  243.791 ms
+16  64.57.28.54 (64.57.28.54)  243.787 ms  243.724 ms  243.855 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  255.566 ms  253.689 ms  253.380 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.154 ms  243.992 ms  244.297 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.206 ms  0.279 ms  0.277 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.648 ms  0.641 ms  0.638 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.913 ms  11.025 ms  11.017 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.748 ms  24.794 ms  24.818 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.634 ms  25.695 ms  25.618 ms
+ 6  170.79.213.14 (170.79.213.14)  65.753 ms  65.796 ms  65.783 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.656 ms  66.475 ms  66.492 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.233 ms  172.301 ms  172.324 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.759 ms  179.216 ms  178.763 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.877 ms  184.870 ms  184.914 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.830 ms  202.704 ms  202.855 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.717 ms  202.923 ms  202.689 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.515 ms  210.631 ms  210.533 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.898 ms  233.620 ms  233.883 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.772 ms  243.731 ms  243.803 ms
+16  64.57.28.54 (64.57.28.54)  244.151 ms  243.944 ms  244.134 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.028 ms  244.048 ms  244.055 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.298 ms  244.120 ms  244.363 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.215 ms  0.220 ms  0.231 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.354 ms  0.349 ms  0.349 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  11.298 ms  11.325 ms  11.383 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.653 ms  24.724 ms  24.748 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.579 ms  24.648 ms  24.677 ms
+ 6  170.79.213.14 (170.79.213.14)  65.747 ms  65.874 ms  65.819 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.668 ms  66.662 ms  66.682 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.172 ms  171.712 ms  171.797 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.749 ms  180.026 ms  180.005 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.542 ms  185.526 ms  185.572 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.889 ms  202.776 ms  202.993 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  203.868 ms  202.560 ms  202.734 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.370 ms  210.411 ms  210.448 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.492 ms  233.497 ms  233.543 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.790 ms  243.783 ms  243.775 ms
+16  64.57.28.54 (64.57.28.54)  243.764 ms  243.643 ms  243.737 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.677 ms  244.708 ms  244.645 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.073 ms  244.213 ms  244.363 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.404 ms  0.430 ms  0.406 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.397 ms  0.382 ms  0.368 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.880 ms  10.907 ms  10.962 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.751 ms  24.834 ms  24.854 ms
+ 5  170.79.213.3 (170.79.213.3)  65.858 ms  65.879 ms  65.947 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.656 ms  65.654 ms  65.665 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.510 ms  66.565 ms  66.602 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.117 ms  171.809 ms  171.875 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.776 ms  178.754 ms  178.830 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.879 ms  184.951 ms  184.851 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.679 ms  202.723 ms  202.498 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.854 ms  202.969 ms  202.613 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.322 ms  210.317 ms  210.472 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.721 ms  233.741 ms  233.723 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.686 ms  243.855 ms  243.791 ms
+16  64.57.28.54 (64.57.28.54)  243.751 ms  243.754 ms  243.971 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.040 ms  243.916 ms  243.944 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.209 ms  244.124 ms  244.147 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.207 ms  0.205 ms  0.216 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.877 ms  0.869 ms  0.871 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.866 ms  10.973 ms  10.963 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.791 ms  24.860 ms  24.847 ms
+ 5  170.79.213.3 (170.79.213.3)  66.229 ms  66.185 ms  66.169 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.712 ms  65.720 ms  65.679 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.310 ms  66.526 ms  66.565 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.043 ms  171.960 ms  171.990 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.688 ms  178.740 ms  178.780 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.978 ms  184.971 ms  185.040 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.937 ms  203.188 ms  202.743 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.786 ms  202.787 ms  203.914 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.389 ms  210.498 ms  210.509 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.601 ms  233.484 ms  233.768 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.797 ms  243.776 ms  244.777 ms
+16  64.57.28.54 (64.57.28.54)  243.870 ms  243.772 ms  243.836 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.949 ms  243.936 ms  243.871 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.215 ms  244.180 ms  244.278 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.168 ms  0.172 ms  0.185 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  1.238 ms  1.230 ms  1.217 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.955 ms  11.073 ms  11.066 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.936 ms  24.926 ms  25.023 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.795 ms  24.615 ms  24.647 ms
+ 6  170.79.213.14 (170.79.213.14)  65.731 ms  65.648 ms  66.861 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.579 ms  66.389 ms  66.376 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.265 ms  172.029 ms  172.017 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.777 ms  178.707 ms  178.772 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.860 ms  184.974 ms  185.005 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.623 ms  202.664 ms  202.726 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.723 ms  202.537 ms  202.808 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.480 ms  210.296 ms  210.455 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.605 ms  233.598 ms  233.669 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  244.137 ms  244.346 ms  244.348 ms
+16  64.57.28.54 (64.57.28.54)  243.946 ms  243.791 ms  243.706 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.008 ms  244.038 ms  243.946 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.345 ms  244.197 ms  244.232 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.161 ms  0.164 ms  0.177 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.361 ms  0.352 ms  0.340 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.921 ms  10.964 ms  11.008 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  25.425 ms  25.506 ms  25.499 ms
+ 5  170.79.213.3 (170.79.213.3)  65.807 ms  65.881 ms  65.866 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  66.110 ms  66.461 ms  65.548 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.734 ms  66.649 ms  66.733 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.994 ms  171.888 ms  171.860 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.672 ms  178.905 ms  178.865 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.679 ms  184.881 ms  184.837 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.037 ms  203.026 ms  202.328 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.972 ms  203.059 ms  203.217 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.765 ms  210.435 ms  210.370 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.397 ms  233.441 ms  233.452 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.968 ms  243.946 ms  243.856 ms
+16  64.57.28.54 (64.57.28.54)  243.932 ms  243.909 ms  243.865 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.025 ms  243.984 ms  243.981 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.176 ms  244.316 ms  244.301 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.221 ms  0.203 ms  0.224 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.299 ms  0.291 ms  0.260 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.885 ms  10.992 ms  10.983 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.796 ms  24.794 ms  24.788 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.527 ms  24.735 ms  24.729 ms
+ 6  170.79.213.14 (170.79.213.14)  65.792 ms  65.783 ms  65.908 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.683 ms  66.413 ms  66.393 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.279 ms  172.224 ms  172.261 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.130 ms  179.502 ms  179.641 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.920 ms  184.751 ms  184.769 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.784 ms  202.940 ms  202.867 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.862 ms  202.646 ms  202.806 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.651 ms  210.341 ms  210.635 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.599 ms  233.554 ms  233.589 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.719 ms  243.588 ms  243.600 ms
+16  64.57.28.54 (64.57.28.54)  243.830 ms  243.816 ms  243.695 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.023 ms  244.046 ms  243.931 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.069 ms  243.964 ms  244.539 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.238 ms  0.217 ms  0.223 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.356 ms  0.347 ms  0.354 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.840 ms  10.928 ms  10.911 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.632 ms  24.708 ms  24.586 ms
+ 5  170.79.213.3 (170.79.213.3)  65.968 ms  66.036 ms  66.031 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  65.675 ms  89.160 ms  65.603 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.514 ms  66.612 ms  66.648 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.791 ms  171.766 ms  171.812 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.802 ms  178.657 ms  178.736 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.630 ms  184.593 ms  184.471 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.526 ms  202.565 ms  202.556 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.527 ms  202.710 ms  202.763 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.265 ms  210.214 ms  210.358 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.392 ms  233.447 ms  233.507 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.706 ms  243.641 ms  243.969 ms
+16  64.57.28.54 (64.57.28.54)  243.752 ms  243.769 ms  243.946 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.369 ms  244.311 ms  244.297 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.027 ms  244.041 ms  244.143 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.163 ms  0.166 ms  0.183 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.223 ms  0.229 ms  0.213 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.945 ms  11.061 ms  11.050 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.705 ms  24.706 ms  24.768 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.668 ms  24.524 ms  24.646 ms
+ 6  170.79.213.14 (170.79.213.14)  65.696 ms  65.725 ms  65.807 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  67.228 ms  67.159 ms  67.133 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.023 ms  172.411 ms  172.324 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.846 ms  179.031 ms  178.856 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.944 ms  185.044 ms  185.068 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.730 ms  202.825 ms  202.760 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.647 ms  203.124 ms  202.944 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.491 ms  210.347 ms  210.591 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.508 ms  233.397 ms  233.553 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.743 ms  243.911 ms  243.807 ms
+16  64.57.28.54 (64.57.28.54)  244.033 ms  245.510 ms  243.862 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.994 ms  244.097 ms  243.969 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.062 ms  244.135 ms  244.221 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.247 ms  0.179 ms  0.192 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.358 ms  0.350 ms  0.327 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.854 ms  10.905 ms  10.908 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.677 ms  24.894 ms  24.890 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  25.071 ms  25.117 ms  25.153 ms
+ 6  170.79.213.14 (170.79.213.14)  65.713 ms  65.766 ms  65.730 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.690 ms  66.424 ms  66.488 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.972 ms  171.767 ms  171.943 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.112 ms  178.838 ms  178.892 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.049 ms  185.009 ms  185.010 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.881 ms  202.752 ms  202.726 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.609 ms  202.873 ms  202.645 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.542 ms  210.587 ms  210.606 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.537 ms  234.095 ms  233.534 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.870 ms  243.734 ms  243.804 ms
+16  64.57.28.54 (64.57.28.54)  246.136 ms  243.897 ms  244.045 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.368 ms  244.549 ms  244.601 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.223 ms  244.256 ms  244.401 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.210 ms  0.222 ms  0.225 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.332 ms  0.327 ms  0.316 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.907 ms  11.020 ms  11.014 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.690 ms  24.828 ms  24.817 ms
+ 5  ce-ce2.bkb.rnp.br (200.143.253.149)  24.783 ms  24.784 ms  24.710 ms
+ 6  170.79.213.14 (170.79.213.14)  65.773 ms  66.272 ms  66.276 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.627 ms  66.384 ms  66.429 ms
+ 8  us-br.redclara.net (200.0.204.9)  171.998 ms  171.942 ms  172.054 ms
+ 9  i2-us.redclara.net (200.0.207.10)  178.927 ms  178.983 ms  178.954 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  185.000 ms  184.998 ms  185.049 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  202.797 ms  202.755 ms  202.858 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.915 ms  203.297 ms  202.679 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.727 ms  210.444 ms  210.437 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.544 ms  233.372 ms  233.610 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.660 ms  243.943 ms  243.909 ms
+16  64.57.28.54 (64.57.28.54)  243.899 ms  244.020 ms  243.828 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  244.241 ms  244.268 ms  244.214 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.303 ms  244.387 ms  244.245 ms
+traceroute to planetlab04.cs.washington.edu (128.208.4.99), 30 hops max, 60 byte packets
+ 1  bb3.pop-pa.rnp.br (200.129.132.1)  0.195 ms  0.208 ms  0.213 ms
+ 2  pa-lanpa2.bkb.rnp.br (200.143.255.213)  0.293 ms  0.289 ms  0.287 ms
+ 3  ma-pa-oi.bkb.rnp.br (200.143.252.150)  10.853 ms  10.987 ms  10.977 ms
+ 4  ce2-ma-oi.bkb.rnp.br (200.143.252.146)  24.609 ms  24.680 ms  24.535 ms
+ 5  170.79.213.3 (170.79.213.3)  65.864 ms  65.893 ms  66.006 ms
+ 6  sp-sp2.bkb.rnp.br (200.143.253.37)  66.733 ms  68.137 ms  66.646 ms
+ 7  br-rnp.redclara.net (200.0.204.213)  66.659 ms  66.680 ms  66.672 ms
+ 8  us-br.redclara.net (200.0.204.9)  172.493 ms  172.064 ms  172.166 ms
+ 9  i2-us.redclara.net (200.0.207.10)  179.003 ms  178.710 ms  178.842 ms
+10  et-3-3-0.4079.rtsw.atla.net.internet2.edu (162.252.70.42)  184.844 ms  185.010 ms  185.206 ms
+11  ae-4.4070.rtsw.chic.net.internet2.edu (198.71.45.60)  203.704 ms  202.610 ms  202.543 ms
+12  ae-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.133)  202.959 ms  202.691 ms  202.655 ms
+13  et-7-0-0.4079.rtsw.minn.net.internet2.edu (162.252.70.107)  210.278 ms  210.362 ms  210.485 ms
+14  et-7-0-0.4079.rtsw.miss2.net.internet2.edu (162.252.70.59)  233.448 ms  233.662 ms  233.867 ms
+15  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  243.863 ms  243.767 ms  243.662 ms
+16  64.57.28.54 (64.57.28.54)  244.053 ms  243.805 ms  243.798 ms
+17  et-7-0-0--4012.uwcr-atg-1.infra.washington.edu (209.124.181.135)  243.941 ms  243.945 ms  243.924 ms
+18  * * *
+19  * * *
+20  planetlab04.cs.washington.edu (128.208.4.99)  244.124 ms  244.049 ms  244.090 ms

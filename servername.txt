@@ -1,0 +1,12 @@
+pl1.eng.monash.edu.au
+planetlab-2.sjtu.edu.cn 
+planetlab01.cs.washington.edu 
+planetlab1.pop-pa.rnp.br
+planetlab04.cs.washington.edu
+planetlab3.cs.uoregon.edu
+pl2.cs.montana.edu
+planetlab1.rutgers.edu
+plab1.cs.msu.ru
+planetlab3.wail.wisc.edu
+planetlab-2.calpoly-netlab.net
+planetlab-01.bu.edu
